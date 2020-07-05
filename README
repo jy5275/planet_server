@@ -1,0 +1,4 @@
+Planet server
+Execute this in terminal:
+$ mvn clean install
+$ java -jar planet_server-1.0.jar
